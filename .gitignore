@@ -1,0 +1,10 @@
+node_modules/
+.venv/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+mercor_capstone_sanitized_prospect_workspace.csv
+test-company.json
+.env.example
